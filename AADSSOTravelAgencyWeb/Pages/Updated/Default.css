@@ -1,0 +1,26 @@
+﻿/* Page-specific styling */
+
+#details {
+    /*margin-left: 15px;*/
+    text-align:center;
+}
+
+    #details th {
+        text-align: left;
+        padding-right: 10px;
+    }
+
+#from {
+    cursor: pointer;
+    color: #336699;
+}
+
+    #from:focus, #from:hover, #from:active {
+        color: #4ea2df;
+    }
+
+    #errormsg {
+    font-size:x-large;
+    text-align:center;
+    color: red;
+}

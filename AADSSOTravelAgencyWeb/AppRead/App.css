@@ -1,0 +1,159 @@
+﻿/* Common app styling */
+#content-Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-bottom:0;
+    padding-bottom:0;
+    overflow: auto;
+    background-color:black;
+    height:30px;
+}
+
+#content-main {
+    background: #fff;
+    position: fixed;
+    top:30px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    bottom: 10px; /* Same value as #content-footer's height */
+    overflow: auto; /* Enable scrollbars within main content section */
+}
+
+#content-footer {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    height: 50px; /* Fixed footer height */
+    overflow: hidden; /* Disable scrollbars for footer */
+    border-style:solid;
+    border-width:1px;
+}
+
+#abcds {
+    border-style:solid;
+    border-width:1px;
+    width:10%;
+    /*text-align:center;
+    font-weight:bold;*/
+}
+
+#from-date {
+        text-align:left;
+    }
+#to-date {
+    text-align:left;
+}
+
+#userID {
+    border-radius: 50%;
+}
+#userImage {
+    height:40px;
+    padding-top:3px;
+}
+html, body {
+    height: 100%;
+}
+
+#approvebutton {
+    width:200px;
+    height:35px;
+    text-align:center;
+
+    /* Light Green */
+    background-color:#00CC66;
+    color:white;
+}
+
+#rejectbutton {
+    width:200px;
+    height:35px;
+    text-align:center;
+
+    /* Light Red */
+    background-color:#FF987E;
+    color:white;
+}
+
+.headerrs {
+    width:30px;
+}
+
+#requestmsg {
+    display:inline;
+}
+
+#actionbuttons {
+    margin:auto;
+    visibility:hidden;
+}
+#imageStyle {
+
+    width:50px;
+    height:25px;
+    padding-top:5px;
+    padding-left:5px;
+}
+#details {
+    vertical-align:middle;
+    margin:auto;
+}
+
+#info {
+    margin:auto;
+}
+
+#appinfo {
+    text-align:center;
+    color:#000000;
+}
+ 
+#statusmsg {
+    font-size:x-large;
+    text-align:center;
+}
+
+#date-align {
+    text-align:right;
+    border-style:solid;
+    border-width:1px;
+}
+td {
+    text-align:center;
+}
+.padding {
+    justify-content:center;
+}
+
+#notification-message {
+    background-color: #818285;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    min-height: 80px;
+    right: 0;
+    z-index: 100;
+    bottom: 0;
+    display: none; /* Hidden until invoked */
+}
+
+    #notification-message #notification-message-header {
+        font-size: medium;
+        margin-bottom: 10px;
+    }
+
+    #notification-message #notification-message-close {
+        background-image: url("../Images/Close.png");
+        background-repeat: no-repeat;
+        width: 24px;
+        height: 24px;
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        cursor: pointer;
+    }

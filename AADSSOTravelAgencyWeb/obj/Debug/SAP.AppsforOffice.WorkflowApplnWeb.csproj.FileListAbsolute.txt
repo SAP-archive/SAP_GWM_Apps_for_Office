@@ -1,0 +1,3 @@
+C:\Github\AADSSOTravelAgency_Dev\AADSSOTravelAgencyWeb\obj\Debug\SAP.AppsforOffice.WorkflowApplnWeb.csprojResolveAssemblyReference.cache
+C:\Prathiba\IMS\GWM\Apps for Office\Github\AADSSOTravelAgency_Dev\AADSSOTravelAgency_Dev\AADSSOTravelAgencyWeb\obj\Debug\SAP.AppsforOffice.WorkflowApplnWeb.csprojResolveAssemblyReference.cache
+C:\Prathiba\IMS\GWM\Apps for Office\Github\AADSSOTravelAgency_Dev\AADSSOTravelAgency_Dev\AADSSOTravelAgency_Dev\AADSSOTravelAgencyWeb\obj\Debug\SAP.AppsforOffice.WorkflowApplnWeb.csprojResolveAssemblyReference.cache

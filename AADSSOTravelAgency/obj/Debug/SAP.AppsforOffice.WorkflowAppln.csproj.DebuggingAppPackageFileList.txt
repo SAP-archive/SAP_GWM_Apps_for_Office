@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\AADSSOTravelAgencyManifest.xml
+C:\Github\AADSSOTravelAgency_Dev\AADSSOTravelAgency\bin\Debug\SAP.AppsforOffice.WorkflowAppln.debugapp
