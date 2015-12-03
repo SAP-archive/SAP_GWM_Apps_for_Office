@@ -36,9 +36,7 @@ The following Dynamic Link Library files (with the extension .dll) should be pre
 	4. Newtonsoft.Json.dll is available in the Json.Net 5.0.6 package,
 	5. Microsoft.IdentityModel.Clients.ActiveDirectory.dll and
 	6. Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll are available in the Active Directory Authentication Library 1.0.2 package.
-	
-These packages can be downloaded at https://www.nuget.org/ with a registered account. The downloaded files can be extracted to view the DLL files in the lib folder based on the .NET Framework version. 
-
+	These packages can be downloaded at https://www.nuget.org/ with a registered account. The downloaded files can be extracted to view the DLL files in the lib folder based on the .NET Framework version. 
 Follow these steps to add the required DLL files to the GAC folder:
 		1. Open Visual Studio Tools on the Start menu, right-click on Developer Command Prompt for VS2013 or Developer Command Prompt for VS2010 (depending on the version of Visual Studio being used) and choose Run as Administrator , choose Yes if Windows displays a security prompt.
 		2. In Developer Command Prompt , run the command gacutil -if <file path of DLL> and press Enter. Repeat this step till all the required DLL files are added successfully.
