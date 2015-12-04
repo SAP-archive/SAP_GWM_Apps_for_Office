@@ -24,23 +24,7 @@ This application focuses on 2 potential scenarios.
 
 Pre-requisites:
 ---------------
-1. Operating System - Windows 7 and Windows 8.
-2. Microsoft Visual Studio 2013 Editions - Professional, Premium, Ultimate and Community.
-3.  .Net Framework 4.5.
-4. Microsoft Office Professional 2013 and Microsoft Office 365 (Office Online).
-5. **Required Library Files**-
-The following Dynamic Link Library files (with the extension .dll) should be present in the Global Assembly Cache (GAC) folder for installation:
-	1. Newtonsoft.Json.dll (version 5.0.6)
-	2. Microsoft.IdentityModel.Clients.ActiveDirectory.dll (version 1.0.2)
-	3. Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll (version 1.0.2)
-	4. Newtonsoft.Json.dll is available in the Json.Net 5.0.6 package,
-	5. Microsoft.IdentityModel.Clients.ActiveDirectory.dll and
-	6. Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll are available in the Active Directory Authentication Library 1.0.2 package.
-	These packages can be downloaded at https://www.nuget.org/ with a registered account. The downloaded files can be extracted to view the DLL files in the lib folder based on the .NET Framework version. 
-Follow these steps to add the required DLL files to the GAC folder:
-		1. Open Visual Studio Tools on the Start menu, right-click on Developer Command Prompt for VS2013 or Developer Command Prompt for VS2010 (depending on the version of Visual Studio being used) and choose Run as Administrator , choose Yes if Windows displays a security prompt.
-		2. In Developer Command Prompt , run the command gacutil -if <file path of DLL> and press Enter. Repeat this step till all the required DLL files are added successfully.
-6. **SAP Gateway for Microsoft (GWM)** Solution.
+Refer to the [SCN Blog](http://scn.sap.com/community/interoperability-microsoft/blog/2015/12/04/apps-for-office-workflow) and [SAP Gateway for microsoft Installation and Configuration Guide](http://help.sap.com/downloads/pdf/saphelp_nwgwpam_1_en_53_8be0db450541e493d7b4c2e5685ecf_frameset.pdf) for the pre-requisites.
 
 Steps to run Apps for Office Workflow Solution
 ----------------------------------------------
