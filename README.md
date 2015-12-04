@@ -24,7 +24,7 @@ This application focuses on 2 potential scenarios.
 
 Pre-requisites:
 ---------------
-Refer to the [SCN Blog](http://scn.sap.com/community/interoperability-microsoft/blog/2015/12/04/apps-for-office-workflow) and [SAP Gateway for microsoft Installation and Configuration Guide](http://help.sap.com/downloads/pdf/saphelp_nwgwpam_1_en_53_8be0db450541e493d7b4c2e5685ecf_frameset.pdf) for the pre-requisites.
+Refer to the [SAP Workflow Apps for Office Application](http://scn.sap.com/community/interoperability-microsoft/blog/2015/12/04/apps-for-office-workflow) SCN blog and [SAP Gateway for microsoft Installation and Configuration Guide](http://help.sap.com/downloads/pdf/saphelp_nwgwpam_1_en_53_8be0db450541e493d7b4c2e5685ecf_frameset.pdf) for the pre-requisites.
 
 Steps to run Apps for Office Workflow Solution
 ----------------------------------------------
