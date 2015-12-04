@@ -42,4 +42,4 @@ Steps to run Apps for Office Workflow Solution
 Documentation:
 ==============
 
-**You can find details of this Application and step by step instructions in the SCN Blog.**
+**You can find details of this Application and step by step instructions for running this application in the SCN Blog [SAP Workflow Apps for Office Application](http://scn.sap.com/community/interoperability-microsoft/blog/2015/12/04/apps-for-office-workflow).**
